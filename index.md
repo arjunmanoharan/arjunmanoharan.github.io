@@ -1,7 +1,8 @@
+<title> Arjun Manoharan </title>
 ## About myself
     I am an MS scholar (in CS) at R.I.S.E. Group, IITM under the guidance of Prof.Balraman Ravindran.
-
-## Work Experience
+  
+## Experience
     I worked in Verizon Data Services India (VDSI) for 2 years after my graduation. I was part of the development of qualification engine to qualify Verizon products to wireline customers of Verizon.
     
 ## Education
